@@ -2,6 +2,7 @@ import serumImg from "@/assets/product-serum.jpg";
 import lipstickImg from "@/assets/product-lipstick.jpg";
 import moisturizerImg from "@/assets/product-moisturizer.jpg";
 import sunscreenImg from "@/assets/product-sunscreen.jpg";
+import facemistImg from "@/assets/product-facemist.jpg";
 import foundationImg from "@/assets/product-foundation.jpg";
 import cleanserImg from "@/assets/product-cleanser.jpg";
 
@@ -81,7 +82,7 @@ export const products: Product[] = [
     name: "Rose Petal Face Mist",
     price: 22.99,
     category: "Skincare",
-    image: serumImg,
+    image: facemistImg,
     badge: "Limited Edition",
     description: "A refreshing facial mist infused with pure Bulgarian rose water and hyaluronic acid. Instantly hydrates, soothes, and sets makeup beautifully.",
     benefits: ["Instant hydration", "Soothes irritation", "Sets makeup", "Refreshes skin"],
